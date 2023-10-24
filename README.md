@@ -26,8 +26,6 @@ Coloring the pegasus is great, the “playing” aspect of our game is figured o
 You may have noticed that clicking on some parts of the pegasus don’t perfectly line up with the shapes. This has to do with how the shapes are stacked on top of each other. There’s a lot of ways to fix that potentially, but a solution that will work well is giving the person playing the game some insight into what part of the Pegasus will be colored after they click.
 We’re going to use the screen blend mode to indicate which part of the Pegasus is going to be selected. Blend modes dictate how a filled-in shape interacts with the other shapes visible, somewhat like changing the opacity and color of the shape. The result will be that our highlighted section will turn semi-transparent and white with a white outline.
 
-<img width="331" alt="Снимок экрана 2023-10-24 в 01 34 03" src="https://github.com/mtapirina/color_a_pegasus/assets/116927372/35d31bfc-8288-46c5-b3f0-f53b7d9f06f3">
-
 ### Indicating Palette Selection
 
 Our game is a lot more playable now that people know what they’re clicking on, but how can we keep track of what color is currently active? By adding relevant hover events to our paletteCircles!
@@ -44,3 +42,6 @@ You’ve displayed a lot of control over the possible mouse cursor events and su
 * Color in the background as well as the pegasus.
   
 <img width="511" alt="Снимок экрана 2023-10-24 в 15 08 16" src="https://github.com/mtapirina/color_a_pegasus/assets/116927372/e5c4b665-c68a-4729-9dfa-1053aece4686">
+
+
+<img width="515" alt="pegasus-change-color" src="https://github.com/mtapirina/color_a_pegasus/assets/116927372/d6a9879f-d3f1-4c56-bad2-d24c2a70cde9">
