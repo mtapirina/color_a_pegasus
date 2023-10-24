@@ -1,5 +1,6 @@
 # COLOR A PEGASUS 
-__Codecademy Phaser JS Lesson__
+
+## Codecademy Phaser JS Lesson
 
 In this lesson we’re going to provide functionality to make our first coloring-book game called Color a Pegasus.
 
